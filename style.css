@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.offerings-img{
+    width: 100%;
+    height: 400px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
